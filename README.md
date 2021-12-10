@@ -8,7 +8,7 @@ I had enrolled in Avtaar's training and internship program and
 got selected for the same. 
 
 In Avtaar's training and internship program, this is my 
-1st assignment and with this, I'm starting my GitHub journey.
+1st assignment and with this, I'm starting my GitHub journey too.
 
 
 ## Problem Statement 
