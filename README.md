@@ -20,7 +20,7 @@ Create a program to take user name as a input or as an api param, and display/re
 
 ## Output Screenshot
 
-![Output Screenshot](https://github.com/sayli15/Assignment1---Program-to-generate-unique-id/blob/main/1.PNG)
+![Output Screenshot](https://github.com/sayli15/Assignment1-Program-to-generate-unique-id/blob/main/1.PNG)
 
 ## Steps to run the project
 
