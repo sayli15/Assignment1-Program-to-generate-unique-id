@@ -1,6 +1,5 @@
 # Assignment 1 
 
-## About me
 Hello everyone!
 My name is Sayali Selukar. I am 3rd year undergraduate 
 specialized in Computer Science Engineering. Recently 
